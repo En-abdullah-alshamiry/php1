@@ -1,5 +1,5 @@
 <?php
       
-      $names = ["ahmed","hamed","ahmed","abdullah"] ; 
+      $names = ["ahmed","hamed","abdullah"] ; 
       $result = implode(" ' ", $names) 
 ?>
